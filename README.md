@@ -12,6 +12,7 @@ It helps users store and manage their passwords securely inside the browser usin
 ![PassOP Screenshot]<img width="1600" height="876" alt="image" src="https://github.com/user-attachments/assets/4103e94b-db7d-4078-a6a0-28682dfbd541" />
 
 ---
+
 > ⭐ **Important:** This is the frontend/localStorage version for quick demo purposes.  
 > A fully scalable **MongoDB + Express + Node.js backend version** is also available for production-level use.
 
